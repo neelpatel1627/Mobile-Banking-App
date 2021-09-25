@@ -3,22 +3,37 @@
 # Mobile UI design created using Proto.Io 
 
 # Landing Page
-![](landingPage.PNG)
+![](MainScreen.PNG)
 
-# Home Page
-![](homePage.PNG)
+# Login Page
+![](LoginCredential.PNG)
 
-# Drop menu Page
-![](menuDrop.PNG)
+# Account Info Page
+![](AccountPage.PNG)
 
-# Hover on Figma Page
-![](hover1.PNG)
+# Transfer between Accounts Page
+![](TransferbetAcc.PNG)
 
-# Hover on React Page
-![](hover2.PNG)
+# Interac Transfer Page
+![](InteracTransfer.PNG)
 
-# Figma Page
-![](figmaPage.PNG)
+# Send Money via Interac Transfer
+![](SendMoney.PNG)
 
-# React Page
-![](reactPage.PNG)
+# My Contact Info
+![](MyContacts.PNG)
+
+# Add Contact Info
+![](AddnewContact.PNG)
+
+# Contact Saved Page
+![](ContactSaved.PNG)
+
+# Review History Page
+![](ReviewHistory.PNG)
+
+# Investment Account Info Page
+![](Investment.PNG)
+
+# Transection Details Page
+![](TransectionDetails.PNG)
